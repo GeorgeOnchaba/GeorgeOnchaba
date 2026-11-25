@@ -1,9 +1,18 @@
-﻿### Hi, I'm George Onchaba — NiGeNje
+# George Ocharo Onchaba
 
-NiGeNje is an open-core engineering ecosystem for governed autonomous systems: intent and identity, formalization, admission and authorization, governed execution, independent observation, reconciliation and audit.
+Independent systems architect and researcher working across distributed systems, software architecture, compilers and formal methods.
 
-**Open source:** [Lambda Safe Core](https://github.com/GeorgeOnchaba/lambda-safe) (Apache-2.0) — the only open-source NiGeNje project. It is the public developer entry point for the formalization/verification foundation.
+My technical interests include system correctness, fault tolerance, invariant preservation and how software systems behave when operating conditions change.
 
-**Proprietary:** Lambda Safe Enterprise and the integrated NiGeNje platform are proprietary commercial technology. They are private, separately licensed, and are not part of the open-source project.
+## Open-source work
 
-This profile links only public, approved material. It does not describe proprietary architecture or implementation. No adoption, certification, production-readiness or performance claims are made here.
+- **[λ-Safe](https://github.com/GeorgeOnchaba/lambda-safe)** — an independent compiler and research project exploring formal contracts for invariant-aware safe degradation in software systems.
+
+λ-Safe is the only project I currently intend to release as open source. This profile highlights selected public work; it does not describe my private research or broader intellectual work.
+
+## Research and professional links
+
+- [Website](https://nigenje.com)
+- [ORCID](https://orcid.org/0009-0007-1760-7801)
+- [LinkedIn](https://www.linkedin.com/in/gonchaba)
+- [Email](mailto:george@nigenje.com)
